@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Case Johnston.
 - 👀 I’m interested in almost anything computer related.
 - 🌱 I’m currently learning about programing and IT.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: cjohn135@students.bju.edu, Phone: 1 (406) 249-1466
 
 <!---
